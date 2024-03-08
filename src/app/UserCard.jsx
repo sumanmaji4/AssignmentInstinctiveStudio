@@ -40,7 +40,7 @@ function UserCard() {
     //     <GoKebabHorizontal />
     //   </section>
     // </div>
-    <Card className=' w-[537px] h-[220] bg-[#E9F3FE] border-[1px] rounded-3xl p-4 flex gap-2 items-center font-Montserrat'>
+    <Card className=' w-[537px] h-[220] bg-[#E9F3FE] rounded-3xl p-4 flex gap-2 items-center font-Montserrat'>
       <Image
         src='/Card.png'
         alt='card image'
